@@ -1,0 +1,5 @@
+best_model: DistilBERT
+macro_f1: 0.8970
+classes: ['commercial unit', 'flat', 'houseorplot', 'landparcel', 'others']
+train_size: 9437
+test_size: 2360
